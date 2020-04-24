@@ -37,14 +37,14 @@ xD--사운드 패치 : 총기, 차량 엔진, 터보, 사이렌 사운드를 현
 -그래픽 패치 사용법-
 1. FiveM이 실행되어 있다면 종료한다. (종료되어있다면 생략)
 2. FiveM이 설치되어있는 경로를 선택한다.
-   + 기본 설치경로 C:\Users\AAA\AppData\Local\FiveM
+   + 기본 설치경로 C:\Users\유저이름\AppData\Local\FiveM
 3. 그래픽 패치 버튼을 누른다.
 4. 완료 되었다고 표시된다면, FiveM 을 실행하여 재미있는 Galaxy RP 를 즐긴다.
 
 -그래픽 패치 제거 방법-
 1. FiveM이 실행되어 있다면 종료한다. (종료되어있다면 생략)
 2. FiveM이 설치되어있는 경로를 선택한다.
-   + 기본 설치경로 C:\Users\AAA\AppData\Local\FiveM
+   + 기본 설치경로 C:\Users\유저이름\AppData\Local\FiveM
 3. 그래픽 패치 제거 버튼을 누른다
 4. 완료 되었다는 메세지가 뜨면 완료.
 
