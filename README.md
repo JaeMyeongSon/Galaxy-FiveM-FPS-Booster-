@@ -75,8 +75,6 @@ xD--사운드 패치 : 총기, 차량 엔진, 터보, 사이렌 사운드를 현
 
 문의 : 먕?#2461
 
-상업적 사용 및 2차배포 하지마세요. 
-
 Copyright 2020. JaeMyeongSon all rights reserved.
 
 xD Copyright (c) 2020 Galaxy Games xD
